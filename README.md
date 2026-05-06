@@ -41,6 +41,7 @@ Python, Pandas, NumPy, Matplotlib, Seaborn, SciPy, Jupyter Notebook, Anaconda
 ## Data Source
 - Instacart Online Grocery Shopping Dataset 2017
 - CareerFoundry Customer Dataset
+  
 This project uses a mix of real and fabricated datasets for educational purposes.
 
 ---
