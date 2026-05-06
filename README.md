@@ -1,6 +1,4 @@
-<img width="650" height="366" alt="image" src="https://github.com/user-attachments/assets/edf21972-90c7-49f2-8179-b81cc018dcf4" />
-
-![Python](https://img.shields.io/badge/Python-3.x-blue)
+<img width="183" height="35" alt="image" src="https://github.com/user-attachments/assets/4788a8ec-b0bf-4035-893a-f8bcb2435c0f" />
 
 # Instacart Grocery Basket Analysis
 
