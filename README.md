@@ -18,32 +18,30 @@ Python, Pandas, NumPy, Matplotlib, Seaborn, SciPy, Jupyter Notebook, Anaconda
 ## Methodology
 1. **Data Import & Cleaning:** Checked for missing values, duplicates, and inconsistencies
 2. **Data Wrangling:** Renamed variables and standardized data types
-3. **Data Merging:** Combined multiple datasets into a unified dataframe
+3. **Data Merging:** Combined multiple datasets into a single dataframe
 4. **Feature Engineering:** Created new variables (e.g., loyalty flags, price categories)
-5. **Exploratory Data Analysis:** Conducted statistical summaries and pattern analysis
-6. **Aggregation & Segmentation:** order frequency, spending, product preferences
-7. **Visualization:** Built bar charts, histograms, line plots, heatmaps to communicate insights
+5. **Exploratory Data Analysis:** Identified key patterns in ordering behavior and product demand
+6. **Customer Segmentation**: Analyzed spending, order frequency, and product preferences across customer groups
+7. **Visualization:** Created charts to communicate insights
 
 ## Key Findings
-- Order volume peaks on weekends, with lower activity midweek
-- Most orders occur during late morning and daytime hours
-- Higher spending per order happens during off-peak hours
-- Fresh produce and organic items dominate product demand
-- Customer behavior is largely consistent across regions and demographics
+- Orders peak on weekends
+- Spending varies by time of the day
+- Fresh and organic products dominate demand
+- Most customers are repeated users
+- Behavior is consistent across demographics and regions
 <img width="2378" height="596" alt="image" src="https://github.com/user-attachments/assets/04cb5e77-79df-4faf-823f-07e247bab877" />
 
 ## Recommendations
-- Shift marketing campaigns to midweek to balance demand
-- Promote premium products during off-peak hours when spending is higher
-- Focus on fresh and essential items to drive traffic
-- Invest in loyalty programs to retain high-frequency customers
-- Use product-based targeting rather than demographic segmentation
+- Shift marketing to midweek to balance demand
+- Promote premium items off-peak, essentials during peak hours
+- Focus on fresh and organic products
+- Strengthen loyalty programs
+- Use behavioral, not demographic, segmentation
 
 ## Data Source
 - Instacart Online Grocery Shopping Dataset 2017
-- CareerFoundry Customer Dataset
-  
-This project uses a mix of real and fabricated datasets for educational purposes.
+- CareerFoundry Customer Dataset (fabricated dataset for educational purposes)
 
 ---
 <sub>Author: Helena Robalinho · CareerFoundry Data Analytics Immersion Program</sub>
