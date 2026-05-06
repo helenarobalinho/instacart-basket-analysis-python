@@ -41,6 +41,7 @@ Python, Pandas, NumPy, Matplotlib, Seaborn, SciPy, Jupyter Notebook, Anaconda
 ## Data Source
 “The Instacart Online Grocery Shopping Dataset 2017”, accessed via Kaggle:
 https://www.instacart.com/datasets/grocery-shopping-2017
+
 This project uses a mix of real and fabricated datasets for educational purposes. Customer data has been anonymized and handled in accordance with data ethics principles.
 
 ---
