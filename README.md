@@ -30,7 +30,7 @@ Python, Pandas, NumPy, Matplotlib, Seaborn, SciPy, Jupyter Notebook, Anaconda
 - Higher spending per order happens during off-peak hours
 - Fresh produce and organic items dominate product demand
 - Customer behavior is largely consistent across regions and demographics
-<img width="2116" height="578" alt="image" src="https://github.com/user-attachments/assets/128c88c1-31c7-4a5f-bfbe-fce343156b2d" />
+<img width="2378" height="596" alt="image" src="https://github.com/user-attachments/assets/04cb5e77-79df-4faf-823f-07e247bab877" />
 
 ## Recommendations
 - Shift marketing campaigns to midweek to balance demand
