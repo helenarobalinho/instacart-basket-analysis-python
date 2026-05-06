@@ -39,10 +39,9 @@ Python, Pandas, NumPy, Matplotlib, Seaborn, SciPy, Jupyter Notebook, Anaconda
 - Use product-based targeting rather than demographic segmentation
 
 ## Data Source
-“The Instacart Online Grocery Shopping Dataset 2017”, accessed via Kaggle:
-https://www.instacart.com/datasets/grocery-shopping-2017
-
-This project uses a mix of real and fabricated datasets for educational purposes. Customer data has been anonymized and handled in accordance with data ethics principles.
+- Instacart Online Grocery Shopping Dataset 2017
+- CareerFoundry Customer Dataset
+This project uses a mix of real and fabricated datasets for educational purposes.
 
 ---
 <sub>Author: Helena Robalinho · CareerFoundry Data Analytics Immersion Program</sub>
